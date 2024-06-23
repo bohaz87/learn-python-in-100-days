@@ -2,7 +2,7 @@ print(321 + 12)
 print(321 - 12)
 print(321 * 12)
 print(321 / 12)
-print(321 // 12)
+print('整除', 321 // 12)
 print(321 % 12)
 print(321 ** 12)
 
